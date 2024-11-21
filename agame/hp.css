@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+h1{
+    color: brown;
+}
+h3{
+    background-color: brown;
+    width: fit-content;
+}
+h6,h4{
+    color: brown;
+}
