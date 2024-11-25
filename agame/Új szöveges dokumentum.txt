@@ -1,11 +1,51 @@
 1 Are you alone?
 2.3
 
-2 Are you sure?
+2 Are you sure? alone
 4.5.6
 
-3 Are you lying?
+3 Are you sure? notalone
 7.8.9
 
-4 Are your neighbours home?
+4 Are your neighbours home? alone
 10.11.12
+
+5 Are your neighbours home? alone notsure
+13.14.15
+
+6 dwabtit :) alone why
+16
+
+7 are your neighbours home? notalone
+17.18.19
+
+8 are your neighbours home? notalone notsure
+20.21.22
+
+9 dwabtit :) notalone why
+23
+
+10 are you sure? alone neighbour
+24.25.26
+
+11 are you sure? alone
+27.28.29
+
+12 dwabtit :) alone noneighbours why
+30
+
+13 are you sure? alone notsure neighbour
+31.32.33
+
+14 are you sure? alone notsure noneighbour
+34.35.36
+
+15 dwabtit :) alone notsure why
+37
+
+16 are your neighbours home? alone
+38.39.40
+
+17 are you sure? notalone noneighbour
+41.42.431 Are you alone?
+2.3
